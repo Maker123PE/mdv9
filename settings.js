@@ -5,9 +5,9 @@ const fs = require("fs")
 global.autoReading = false //auto recording (true to on, false to off)
 global.autoTyping = false //auto tying (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.autoblockmorroco = false //auto block 212 (true to on, false to off)
+global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -22,17 +22,17 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "51902679067" //ur owner number2
+global.ownernomer = "51966099729" //ur owner number2
 global.ownername = "🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.ytname = "YT: SysSolutions" //ur yt chanel name
 global.socialm = "GitHub: Maker123PE" //ur github or insta name
 global.location = "Peru, Ate, Lima" //ur location
 
 //new
 global.botname = "🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢"
-global.ownernumber = '51902679067'
+global.ownernumber = '51966099729'
 global.ownername = '🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢'
-global.ownerNumber = ["51902679067@s.whatsapp.net"]
+global.ownerNumber = ["51966099729@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@SysSolutionsperu"
 global.websitex = "https://youtube.com/@SysSolutionsperu"
 global.wagc = "https://whatsapp.com/channel/0029VaEsxUbJP21BfklgZS3m"
@@ -41,7 +41,7 @@ global.wm = "🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢"
 global.botscript = 'https://github.com/Maker123PE/mdv9' //script link
 global.packname = "🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢"
 global.author = "🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢"
-global.creator = "51902679067@s.whatsapp.net"
+global.creator = "51966099729@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
