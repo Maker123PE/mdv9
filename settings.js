@@ -22,7 +22,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.ownernomer = "51966099729" //ur owner number2
+global.ownernomer = "51966554898" //ur owner number2
 global.ownername = "🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢" //ur owner name
 global.ytname = "YT: SysSolutions" //ur yt chanel name
 global.socialm = "GitHub: Maker123PE" //ur github or insta name
@@ -30,9 +30,9 @@ global.location = "Peru, Ate, Lima" //ur location
 
 //new
 global.botname = "🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢"
-global.ownernumber = '51966099729'
+global.ownernumber = '51966554898'
 global.ownername = '🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢'
-global.ownerNumber = ["51966099729@s.whatsapp.net"]
+global.ownerNumber = ["51966554898@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@SysSolutionsperu"
 global.websitex = "https://youtube.com/@SysSolutionsperu"
 global.wagc = "https://whatsapp.com/channel/0029VaEsxUbJP21BfklgZS3m"
@@ -41,7 +41,7 @@ global.wm = "🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢"
 global.botscript = 'https://github.com/Maker123PE/mdv9' //script link
 global.packname = "🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢"
 global.author = "🅢🅨🅢🅢🅞🅛🅤🅣🅘🅞🅝🅢"
-global.creator = "51966099729@s.whatsapp.net"
+global.creator = "51966554898@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
